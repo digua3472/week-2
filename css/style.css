@@ -180,12 +180,9 @@ img{
 
 
 /* nav */
-.nav-list{
-    color: #D1D1D1;
-    align-items: center;
-}
 .nav-list a{
     display: block;
+    color: #D1D1D1;
     max-width: 278.5px;
     text-align: center;
 }
